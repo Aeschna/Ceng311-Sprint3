@@ -1,1 +1,1 @@
-In this part, we added our code YTPlayer, SlickSlider, Modal plugins. Our widget is autocomplete. YTPlayer is in index.js and index.html, Modal is in contact.html, SlickSlider is in index.js and index.html.
+In this part, we added our code YTPlayer, SlickSlider, Modal plugins. Our widget is autocomplete. YTPlayer is in index.js and index.html, Modal is in contact.html and contact.js, SlickSlider is in index.js and index.html.
